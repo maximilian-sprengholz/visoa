@@ -8,7 +8,9 @@ Visualization idea of Open Access adoption dates and current infrastrucure at Ge
 [Maximilian Sprengholz](mailto:maximilian.sprengholz@hu-berlin.de)<br />
 [Pascal Walter](mailto:pkw-f8@t-online.de)<br />
 
-__See [online appendix](http://pages.cms.hu-berlin.de/sprenmax/fem-lit-review/).__
+This repository provides a short documentation of the dataset and the source.
+
+The interactive visualization and corresponding JavaScript code lives  __[>>> here <<<](https://observablehq.com/@sansan/open-access-time-tracker)__ at Observable.
 
 
 ## Project organization
@@ -34,4 +36,4 @@ This project is licensed under the terms of the [MIT License](/LICENSE.md)
 
 Please cite this project as:
 
-Sandra Ladwig, Maximilian Sprengholz, Pascal Walter (2021). Open Access Time Tracker, version 0.1.0. Url: XXXhttps://scm.cms.hu-berlin.de/sprenmax/fem-lit-reviewXXX
+Sandra Ladwig, Maximilian Sprengholz, Pascal Walter (2021). Open Access Time Tracker, version 0.1.0. Url: https://github.com/maximilian-sprengholz/visoa
